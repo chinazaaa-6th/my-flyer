@@ -1,0 +1,14 @@
+.container {
+  background-color: black;
+  color: rgb(111, 113, 114);
+}
+.service {
+  border: 1px solid blue;
+  border-radius: 50px;
+  color: brown;
+  background-color: silver;
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
